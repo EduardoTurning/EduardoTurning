@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @EduardoTurning 
+- 👀 I’m interested in ... Money
+- 🌱 I’m currently learning ... Golang
+- 💞️ I’m looking to collaborate on ... Developing amazing software
+- 📫 How to reach me ... business@eduaravila.com
